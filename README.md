@@ -1,16 +1,13 @@
-### Hi there 👋
+## Bonjour <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
 
-<!--
-**AhmedKamalMohammedElSayed/AhmedKamalMohammedElSayed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Ahmed, a 21 years old undergraduate student at Cairo University - systems & biomedical engineering.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- 👨‍💻 JavaScript, python, C, C++
+- ⚙️ embedded c, interfacing, micro-controller
+- 👁️ html, CSS
+- 💽 MySQL, SQL
+## How to reach me
+- [LinkedIn](https://www.linkedin.com/in/ahmed-kamal-a34353217/) 
+
