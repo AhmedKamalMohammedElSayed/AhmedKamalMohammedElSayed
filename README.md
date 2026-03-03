@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ahmed Kamal</h1>
-<h3 align="center">A passionate Embedded System Software from Egypt</h3>
+<h3 align="center">A passionate Software Engineer from Egypt</h3>
 <img width="250" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
-
-- 🌱 I’m currently learning **Embedded System Software , Embedded Linux**
 
 - 📫 How to reach me **ahmedkam412@gmail.com**
 
